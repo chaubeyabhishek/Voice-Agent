@@ -21,7 +21,7 @@ from tts import text_to_speech, get_autoplay_html, select_appropriate_voice
 from llm_chain import AdmissionsConversationManager
 
 st.set_page_config(
-    page_title="AI Voice Admissions Counselor",
+    page_title="AI Assistant Admissions Counselor",
     page_icon="🎙️",
     layout="wide",
     initial_sidebar_state="expanded"
